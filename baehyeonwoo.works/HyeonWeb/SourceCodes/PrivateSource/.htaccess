@@ -1,0 +1,10 @@
+AuthType Basic
+AuthName "Before viewing Priavte Sources, you must login."
+
+AuthUserFile /home/auth/.htpasswd
+
+<Limit>
+
+Require valid-user
+
+</Limit>

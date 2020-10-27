@@ -1,0 +1,7 @@
+name: "ServerListPingDesign"
+main: works.baehyeonwoo.serverlistpingdesign.Main
+version: "0.1"
+api-version: "1.16"
+author: "BaeHyeonWoo | qogusdn1017"
+website: "https://baehyeonwoo.works"
+description: "Example plugin for ServerListPingEvent. For Spigot Servers."

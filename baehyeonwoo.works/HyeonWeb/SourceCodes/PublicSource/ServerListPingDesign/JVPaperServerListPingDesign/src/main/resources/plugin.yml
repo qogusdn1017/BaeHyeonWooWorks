@@ -1,0 +1,7 @@
+name: "PaperServerListPingDesign"
+main: works.baehyeonwoo.paperserverlistpingdesign.PaperMain
+version: "0.1"
+api-version: "1.16"
+author: "BaeHyeonWoo | qogusdn1017"
+website: "https://baehyeonwoo.works"
+description: "Example plugin for PaperServerListPingEvent. For Paper Servers."

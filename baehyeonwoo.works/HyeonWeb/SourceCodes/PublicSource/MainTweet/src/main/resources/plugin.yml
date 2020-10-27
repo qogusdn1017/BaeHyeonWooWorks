@@ -1,0 +1,5 @@
+name: MainTweet
+main: "com.github.qogusdn1017.maintweet.MainTweet"
+version: "0.1"
+author: BaeHyeonWoo
+website: "https://github.com/qogusdn1017/MainTweet"
