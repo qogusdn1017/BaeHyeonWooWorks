@@ -5,7 +5,7 @@ HTML and other sources for https://baehyeonwoo.works/
 
 ## 레포지토리 설명
 
-> 제 사이트 https://baehyeonwoo.works/ 에 담겨있는 정말 간단한 HTML소스코드입니다.
+> 제 사이트 https://baehyeonwoo.works/ 에 담겨있는 정말 간단한 HTML소스코드입니다. 또한 각종 파일들도 담겨져 있습니다.
 
 ---
 
